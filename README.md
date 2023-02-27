@@ -15,8 +15,9 @@
   
   ##
 
- <div> 
-    <a target="_blank" href="https://www.linkedin.com/in/carlosvidal87/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <div>
+  <a target="_blank" href="https://portifolio-carlosvidal.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portifolio-404D59?style=for-the-badge" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carlosvidal87/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="_blank" href = "mailto:carlosevidal87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://www.instagram.com/caduv87/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
